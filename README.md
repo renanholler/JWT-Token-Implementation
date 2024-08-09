@@ -4,10 +4,6 @@
   <image height="32em" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 </div>
 
-# Projeto de Demonstração de Tokens JWT em TypeScript
-
-Este é um projeto de exemplo que demonstra a geração, assinatura e verificação de tokens JWT em TypeScript.
-
 ## Estrutura do Projeto
 
 O projeto é composto pelos seguintes arquivos:
