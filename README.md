@@ -19,7 +19,7 @@ O projeto é composto pelos seguintes arquivos:
 Certifique-se de ter o Node.js e o TypeScript instalados. Clone o repositório e instale as dependências:
 
 ```bash
-git clone https://github.com/seu-usuario/nome-do-projeto.git
-cd nome-do-projeto
+git clone https://github.com/renan-holler/JWT-Token-Implementation.git
+cd JWT-Token-Implementation
 npm install
 ```
