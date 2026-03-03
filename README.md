@@ -4,20 +4,19 @@
   <image height="32em" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 </div>
 
-## Estrutura do Projeto
+## Project Structure
 
-O projeto é composto pelos seguintes arquivos:
+The project is composed of the following files:
 
-1. **generateSignature.ts**: Contém a função `generateSignature` responsável por gerar a assinatura do token.
-2. **sign.ts**: Exporta a função `sign`, que cria um token JWT assinado com base nos dados fornecidos.
-3. **verify.ts**: Exporta a função `verify`, que verifica a validade e decodifica um token JWT.
+1. **generateSignature.ts**: Contains the `generateSignature` function responsible for generating the token signature.
+2. **sign.ts**: Exports the `sign` function, which creates a signed JWT token based on the provided data.
+3. **verify.ts**: Exports the `verify` function, which validates and decodes a JWT token.
 
-## Como Utilizar
+## How to Use
 
-### Instalação
+### Installation
 
-Certifique-se de ter o Node.js e o TypeScript instalados. Clone o repositório e instale as dependências:
-
+Make sure you have Node.js and TypeScript installed. Clone the repository and install the dependencies:
 ```bash
 git clone https://github.com/renanholler/JWT-Token-Implementation.git
 cd JWT-Token-Implementation
